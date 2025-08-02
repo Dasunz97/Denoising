@@ -1,1 +1,5 @@
-ghsbh
+torch
+torchvision
+pytorch-lightning
+numpy
+matplotlib
